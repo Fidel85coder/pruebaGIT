@@ -17,7 +17,7 @@ int main() {
     suma = num1 + num2;
 
     // Mostrar el resultado
-    cout << "La suma de " << num1 << " y " << num2 << " es: " << suma << endl;
+    cout << "La suma de " << num1 << " y " << num2 << " es ahora: " << suma << endl;
 
     return 0;
 }
